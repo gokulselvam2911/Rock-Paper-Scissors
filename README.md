@@ -7,6 +7,11 @@ The game features buttons for choices, score tracking, game history, and a resta
 
 ---
 
+## Live Demo
+Play the game here: [https://rock-paper-scissors-gokul.netlify.app/](https://rock-paper-scissors-gokul.netlify.app/)
+
+---
+
 ## Project Overview
 
 This project was created to practice:
